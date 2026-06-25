@@ -112,7 +112,8 @@ Visit the portfolio here:
 
 ## 📸 Preview
 
-> Add a screenshot of your homepage here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60bf09eb-d0de-4c1a-a685-7d798628b85a" />
+
 
 Example:
 
