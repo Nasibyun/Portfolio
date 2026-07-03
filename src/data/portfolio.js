@@ -21,7 +21,7 @@ export const personal = {
 export const socials = [
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/nasib-khan-0123459z786/",
+    url: "https://www.linkedin.com/in/nasibyun/",
     icon: "linkedin",
   },
   {
