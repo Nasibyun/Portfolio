@@ -109,7 +109,7 @@ export const projects = [
       "Real-time predictions",
       "User-friendly interface",
     ],
-    github: "https://github.com/Nasibyun/Smart-crop-disease-detector",
+    github: "https://github.com/Nasibyun/Smart_Plant_disease_detector",
     live: null,
     image: "/crop-detector-preview.jpg",
     color: "#3b82f6",
