@@ -96,6 +96,32 @@ export const projects = [
     accentColor: "#14b8a6",
   },
   {
+    id: "myredis",
+    title: "MyRedis",
+    subtitle: "Redis-Inspired In-Memory Database",
+    description:
+      "A lightweight, Redis-inspired in-memory key-value database built from scratch in C++17. Designed to explore database internals, data structures, command processing, and client-server communication using POSIX sockets.",
+    techStack: [
+      "C++17",
+      "POSIX Sockets",
+      "Data Structures",
+      "Networking",
+      "CMake"
+    ],
+    features: [
+      "In-memory key-value storage",
+      "Client-server communication",
+      "Command parsing and execution",
+      "Core database operations",
+      "Modular C++ architecture"
+    ],
+    github: "YOUR_MYREDIS_GITHUB_REPOSITORY_URL",
+    live: null,
+    image: "/myredis-preview.png",
+    color: "#f59e0b",
+    accentColor: "#fbbf24",
+  },
+  {
     id: "crop-detector",
     title: "Smart Crop Disease Detector",
     subtitle: "Deep Learning Classification",
