@@ -117,7 +117,7 @@ export const projects = [
     ],
     github: "YOUR_MYREDIS_GITHUB_REPOSITORY_URL",
     live: null,
-    image: "/myredis-preview.png",
+    image: "/myredis.jpg",
     color: "#f59e0b",
     accentColor: "#fbbf24",
   },
